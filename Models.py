@@ -1,5 +1,7 @@
 import torch
 import torch.nn as nn
+import numpy as np
+import scipy
 
 def Filterbank(x, sampling, filterIdx):  
     #x: time signal, np array with format (electrodes,data)
