@@ -82,7 +82,7 @@ class FBRNN(nn.Module):
     
 class FBCNN3D(nn.Module):
     def __init__(self):
-        super(SmallNet, self).__init__()
+        super(FBCNN3D, self).__init__()
         self.conv1= nn.Conv3d(1, 16, kernel_size=(4, 6, 6), stride=(1, 1,1), padding=(1, 1,1))
         self.bn1=nn.BatchNorm3d(16)
         self.relu1= nn.LeakyReLU()
@@ -117,7 +117,7 @@ class FBCNN3D(nn.Module):
     
 class FBCNN2D(nn.Module):
     def __init__(self):
-        super(SmallNet, self).__init__()
+        super(FBCNN2D, self).__init__()
         self.conv1= nn.Conv2d(1, 16, kernel_size=(20, 6), stride=(1, 1), padding=(1, 1))
         self.bn1=nn.BatchNorm2d(16)
         self.relu1= nn.ReLU()
