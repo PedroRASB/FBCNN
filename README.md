@@ -7,8 +7,8 @@ Objective: To propose novel SSVEP classification methodologies using deep neural
 
 # CONTENT
 The .py files have the code for the neural networks and filter banks.
+
 TrainedModels folder contains the networks trained on the entire Benckmark dataset.
-Please contact pedro.salvadorbassi2@unibo.it for more information.
 
 ## Citation:
 @misc{https://doi.org/10.48550/arxiv.2109.02165,
@@ -22,3 +22,5 @@ Please contact pedro.salvadorbassi2@unibo.it for more information.
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
 
+## Contact:
+Please contact pedro.salvadorbassi2@unibo.it for more information.
