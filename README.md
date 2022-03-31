@@ -1,6 +1,6 @@
 This repository contains the code for the paper "FBDNN: Filter Banks and Deep Neural Networks for Portable and Fast Brain-Computer Interfaces". 
 
-The .py file have the basic code for the neural networks and filter banks.
+The .py files have the code for the neural networks and filter banks.
 TrainedModels folder contains the networks trained on the entire Benckmark dataset.
 Please contact pedro.salvadorbassi2@unibo.it for more information.
 
