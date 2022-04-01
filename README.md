@@ -1,6 +1,7 @@
 This repository contains the code for the paper "FBDNN: Filter Banks and Deep Neural Networks for Portable and Fast Brain-Computer Interfaces". 
 
 https://doi.org/10.1088/2057-1976/ac6300
+
 https://doi.org/10.48550/arXiv.2109.02165
 
 # ABSTRACT
