@@ -13,12 +13,18 @@ The .py files have the code for the neural networks and filter banks.
 TrainedModels folder contains the networks trained on the entire Benckmark dataset.
 
 ## Citation:
-@article{10.1088/2057-1976/ac6300,
-	author={Bassi, Pedro Ricardo Ariel Salvador and Attux, Romis},
-	title={FBDNN: filter Banks and deep neural networks for portable and fast brain-computer interfaces},
-	journal={Biomedical Physics & Engineering Express},
-	url={http://iopscience.iop.org/article/10.1088/2057-1976/ac6300},
-	year={2022}
+@article{Bassi_2022,
+	doi = {10.1088/2057-1976/ac6300},
+	url = {https://doi.org/10.1088/2057-1976/ac6300},
+	year = 2022,
+	month = {apr},
+	publisher = {{IOP} Publishing},
+	volume = {8},
+	number = {3},
+	pages = {035018},
+	author = {Pedro R A S Bassi and Romis Attux},
+	title = {{FBDNN}: filter banks and deep neural networks for portable and fast brain-computer interfaces},
+	journal = {Biomedical Physics {\&}amp$\mathsemicolon$ Engineering Express}
 }
 
 ## Contact:
